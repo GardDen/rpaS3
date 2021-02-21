@@ -1,4 +1,4 @@
-package task2_ColorDetector;
+package task3_ColorDetector;
 
 public class LightColorDetector {
     //эту задачу мне скучно делать

@@ -1,4 +1,4 @@
-package task2_ColorDetector;
+package task3_ColorDetector;
 
 public class LightColorDetectorTest {
     public static void main(String[] args) {

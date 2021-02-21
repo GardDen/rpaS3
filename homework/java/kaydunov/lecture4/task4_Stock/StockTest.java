@@ -1,4 +1,4 @@
-package task3_Stock;
+package task4_Stock;
 
 public class StockTest {
     public static void main(String[] args) {
