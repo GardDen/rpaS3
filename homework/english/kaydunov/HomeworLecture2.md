@@ -1,6 +1,7 @@
-##GRAMMAR PRACTICE
+## GRAMMAR PRACTICE
 
 1. MATCH THE SENTENCES TO FORM LOGICAL PAIRS (СОВМЕСТИ ВЫСКАЗЫВАНИЯ ПО СМЫСЛУ)
+
 Steve is ambitious. - I'll help him to get the position.
 The sofa is too big. - I'll send it back to the shop.   
 I don't really like Jack. - I won't invite him over for lunch tomorrow.   
@@ -29,6 +30,7 @@ My laptop is broken. -I'll give you mine.
 
 
 4. COMPLETE THE GAPS WITH will OR be going to (ИСПОЛЬЗУЙ В ПРЕДЛОЖЕНИЯХ will либо BE GOING TO)
+
 1 What are Mike's plans for the summer?
 — Well, first he (to stay) with a friend in Italy, and then he (to travel round) France and Spain.
 
@@ -43,9 +45,10 @@ My laptop is broken. -I'll give you mine.
 — What (to do), then?
 — I (to stay) at home. I have to study.
 
-##VOCABULARY PRACTICE 
+## VOCABULARY PRACTICE 
 
 1. MATCH THE WORDS TO THEIR TRANSLATIONS (СОВМЕСТИ СЛОВА С ИХ ПЕРЕВОДОМ)
+
 1 output
 2 to define
 3 modifier
