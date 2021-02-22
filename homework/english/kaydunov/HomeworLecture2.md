@@ -1,3 +1,5 @@
+# [![Generic badge](https://img.shields.io/badge/homework-ENGLISH-0008fa.svg)](https://moodle.jrr.by/)
+
 ## GRAMMAR PRACTICE
 
 1. MATCH THE SENTENCES TO FORM LOGICAL PAIRS (СОВМЕСТИ ВЫСКАЗЫВАНИЯ ПО СМЫСЛУ)
@@ -10,23 +12,24 @@ They're building a new skyscraper. - I'll rent an office for us there.
 My laptop is broken. -I'll give you mine.
 
 2. COMPLETE THE SENTENCES WITH CORRECT FORMS. USE will or won't for predictions. (ПОСТАВЬ ГЛАГОЛЫ В ПРАВИЛЬНУЮ ФОРМУ. ИСПОЛЬЗУЙ will либо won't (will not) для предсказаний). 
-1 We don't think Trump (to win) the next election.
-2 (It to snow) this winter?
-3 I'm sure the theatre (to be crowded) tonight.
-4 When (the film to end)?
-5 Jenny (not to find) a new job so fast.
-6 The new security system (to protect) our customers better.
-7 When (to change) to the new security system?
-8 (The new system to have) a firewall? 
+
+1 We don't think Trump **will win**(to win) the next election.
+2 **Will it show** (It to snow) this winter?
+3 I'm sure the theatre **will be crowded** (to be crowded) tonight.
+4 When **will the film end**(the film to end)?
+5 Jenny **won't find**(not to find) a new job so fast.
+6 The new security system **will protect**(to protect) our customers better.
+7 When **will change** (to change) to the new security system?
+8 **The new system will have**(The new system to have) a firewall? 
 
 
 3. COMPLETE THE SENTENCES WITH THE CONSTRUCTION be going to. (ДОПОЛНИ ПРЕДЛОЖЕНИЯ КОНСТРУКЦИЕЙ be going to)
-1 I (to learn) to write programs.
-2 Michael (to be late) for the meeting.
-3 What (to do) tonight?
-4 I'm (not to get up) early tomorrow.
-5 How long (to stay) in London?
-6 I (to finish) writing the report in the evening.
+1 I am going to learn(to learn) to write programs.
+2 Michael is going to be late(to be late) for the meeting.
+3 What is going to do(to do) tonight?
+4 I'm not going to get up(not to get up) early tomorrow.
+5 How long is going to stay (to stay) in London?
+6 I am going to finish (to finish) writing the report in the evening.
 
 
 4. COMPLETE THE GAPS WITH will OR be going to (ИСПОЛЬЗУЙ В ПРЕДЛОЖЕНИЯХ will либо BE GOING TO)
@@ -49,75 +52,40 @@ My laptop is broken. -I'll give you mine.
 
 1. MATCH THE WORDS TO THEIR TRANSLATIONS (СОВМЕСТИ СЛОВА С ИХ ПЕРЕВОДОМ)
 
-1 output
-2 to define
-3 modifier
-4 to produce
-5 type
-6 order
-7 access
-8 to accept
-9 integer
-10 to return value
-11 (test) has failed
-12 (test) has passed
-13 to invoke
-14 necessary
-15 template
-16 to equal
-17 to compose
-18 behaviour
-19 expiration date
-20 security code
-21 to expect
-22 to verify
-23 default
-24 keywords
-25 Boolean expression
-26 initial state
-27 to store in the heap
-28 heap memory (space)
-29 statement
-30 inline expression
-31 multiple
-32 to remain
-33 to succeed
-34 condition
-
--преуспеть
--условие
--логическое выражение
--ключевые слова
--память с неупорядоченным хранением данных
--хранить в куче (хранилище)
--встроенное выражение
--утверждение
--начальное состояние
--оставаться 
--множество
--шаблон
--вызывать
--необходимый
--срок годности
--составлять
--стандартная настройка
--поведение
--ожидать
--подтверждать, верифицировать
--код безопасности
-- равняться, быть равным
--принимать
--результат
--попытка завершилась неудачно
--модификатор
--возвращать предыдущее значение
-- целое число
--производить
--доступ
--порядок
--попытка завершилась успехом
--тип, разновидность 
--определять
+1 output результат
+2 to define определять
+3 modifier модификатор
+4 to produce производить
+5 type тип, разновидность 
+6 order порядок
+7 access доступ
+8 to accept принимать
+9 integer целое число
+10 to return value возвращать предыдущее значение
+11 (test) has failed попытка завершилась неудачно
+12 (test) has passed попытка завершилась успехом
+13 to invoke вызывать
+14 necessary необходимый
+15 template шаблон
+16 to equal равняться, быть равным
+17 to compose составлять
+18 behaviour поведение
+19 expiration date срок годности
+20 security code код безопасности
+21 to expect ожидать
+22 to verify подтверждать, верифицировать
+23 default стандартная настройка
+24 keywords ключевые слова
+25 Boolean expression логическое выражение
+26 initial state начальное состояние
+27 to store in the heap хранить в куче (хранилище)
+28 heap memory (space) память с неупорядоченным хранением данных
+29 statement утверждение
+30 inline expression встроенное выражение
+31 multiple множество
+32 to remain оставаться
+33 to succeed преуспеть
+34 condition условие
 
 2. READ THE SENTENCES AND ANALIZE HOW WORDS ARE USED IN THE CONTEXT.(ПРОЧИТАЙ ПРЕДЛОЖЕНИЯ И ПРОАНАЛИЗИРУЙ КАК СЛОВА ИСПОЛЬЗОВАНЫ В КОНТЕКСТЕ)
 
