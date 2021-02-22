@@ -35,18 +35,18 @@ My laptop is broken. -I'll give you mine.
 4. COMPLETE THE GAPS WITH will OR be going to (ИСПОЛЬЗУЙ В ПРЕДЛОЖЕНИЯХ will либо BE GOING TO)
 
 1 What are Mike's plans for the summer?
-— Well, first he (to stay) with a friend in Italy, and then he (to travel round) France and Spain.
+— Well, first he is going to stay (to stay) with a friend in Italy, and then he is going to travel round (to travel round) France and Spain.
 
 2 — Here's my phone number.
-— Thanks. I (to call) you tomorrow morning.
+— Thanks. I will call(to call) you tomorrow morning.
 
 3 — How much is this sweater?
 — 24.94.
-— Fine. I (to take) it.
+— Fine. I will take (to take) it.
 
 4 — Sorry, I'm not going out tonight.
-— What (to do), then?
-— I (to stay) at home. I have to study.
+— What is going to do (to do), then?
+— I will stay (to stay) at home. I have to study.
 
 ## VOCABULARY PRACTICE 
 
