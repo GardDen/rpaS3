@@ -1,6 +1,6 @@
-GRAMMAR PRACTICE
+##GRAMMAR PRACTICE
 
-1 MATCH THE SENTENCES TO FORM LOGICAL PAIRS (СОВМЕСТИ ВЫСКАЗЫВАНИЯ ПО СМЫСЛУ)
+1. MATCH THE SENTENCES TO FORM LOGICAL PAIRS (СОВМЕСТИ ВЫСКАЗЫВАНИЯ ПО СМЫСЛУ)
 Steve is ambitious. - I'll help him to get the position.
 The sofa is too big. - I'll send it back to the shop.   
 I don't really like Jack. - I won't invite him over for lunch tomorrow.   
@@ -8,7 +8,7 @@ Let's go to the party. - I'll give you my little black dress to wear.
 They're building a new skyscraper. - I'll rent an office for us there. 
 My laptop is broken. -I'll give you mine.
 
-2 COMPLETE THE SENTENCES WITH CORRECT FORMS. USE will or won't for predictions. (ПОСТАВЬ ГЛАГОЛЫ В ПРАВИЛЬНУЮ ФОРМУ. ИСПОЛЬЗУЙ will либо won't (will not) для предсказаний). 
+2. COMPLETE THE SENTENCES WITH CORRECT FORMS. USE will or won't for predictions. (ПОСТАВЬ ГЛАГОЛЫ В ПРАВИЛЬНУЮ ФОРМУ. ИСПОЛЬЗУЙ will либо won't (will not) для предсказаний). 
 1 We don't think Trump (to win) the next election.
 2 (It to snow) this winter?
 3 I'm sure the theatre (to be crowded) tonight.
@@ -19,7 +19,7 @@ My laptop is broken. -I'll give you mine.
 8 (The new system to have) a firewall? 
 
 
-3 COMPLETE THE SENTENCES WITH THE CONSTRUCTION be going to. (ДОПОЛНИ ПРЕДЛОЖЕНИЯ КОНСТРУКЦИЕЙ be going to)
+3. COMPLETE THE SENTENCES WITH THE CONSTRUCTION be going to. (ДОПОЛНИ ПРЕДЛОЖЕНИЯ КОНСТРУКЦИЕЙ be going to)
 1 I (to learn) to write programs.
 2 Michael (to be late) for the meeting.
 3 What (to do) tonight?
@@ -28,7 +28,7 @@ My laptop is broken. -I'll give you mine.
 6 I (to finish) writing the report in the evening.
 
 
-4 COMPLETE THE GAPS WITH will OR be going to (ИСПОЛЬЗУЙ В ПРЕДЛОЖЕНИЯХ will либо BE GOING TO)
+4. COMPLETE THE GAPS WITH will OR be going to (ИСПОЛЬЗУЙ В ПРЕДЛОЖЕНИЯХ will либо BE GOING TO)
 1 What are Mike's plans for the summer?
 — Well, first he (to stay) with a friend in Italy, and then he (to travel round) France and Spain.
 
@@ -43,9 +43,9 @@ My laptop is broken. -I'll give you mine.
 — What (to do), then?
 — I (to stay) at home. I have to study.
 
-VOCABULARY PRACTICE 
+##VOCABULARY PRACTICE 
 
-1 MATCH THE WORDS TO THEIR TRANSLATIONS (СОВМЕСТИ СЛОВА С ИХ ПЕРЕВОДОМ)
+1. MATCH THE WORDS TO THEIR TRANSLATIONS (СОВМЕСТИ СЛОВА С ИХ ПЕРЕВОДОМ)
 1 output
 2 to define
 3 modifier
@@ -116,7 +116,7 @@ VOCABULARY PRACTICE
 -тип, разновидность 
 -определять
 
-2 READ THE SENTENCES AND ANALIZE HOW WORDS ARE USED IN THE CONTEXT.(ПРОЧИТАЙ ПРЕДЛОЖЕНИЯ И ПРОАНАЛИЗИРУЙ КАК СЛОВА ИСПОЛЬЗОВАНЫ В КОНТЕКСТЕ)
+2. READ THE SENTENCES AND ANALIZE HOW WORDS ARE USED IN THE CONTEXT.(ПРОЧИТАЙ ПРЕДЛОЖЕНИЯ И ПРОАНАЛИЗИРУЙ КАК СЛОВА ИСПОЛЬЗОВАНЫ В КОНТЕКСТЕ)
 
 1 The computer's output is shown on this screen. 
 2 To discover and define the truth is the problem of history.
@@ -153,9 +153,9 @@ VOCABULARY PRACTICE
 33 The candidate has passed all the tests.
 34 He failed to pass the exam because he wasn't working hard. 
 
-3 MAKE YOUR OWN EXAMPLES WITH ACTIVE VOCABULARY FROM THE SECTION. (ПОСТРОЙ СВОИ СОБСТВЕННЫЕ ПРИМЕРЫ СО СЛОВАМИ ИЗ РАЗДЕЛА)
+3. MAKE YOUR OWN EXAMPLES WITH ACTIVE VOCABULARY FROM THE SECTION. (ПОСТРОЙ СВОИ СОБСТВЕННЫЕ ПРИМЕРЫ СО СЛОВАМИ ИЗ РАЗДЕЛА)
 
-3 ANSWER THE QUESTIONS. RECORD A VIDEO/AUDION AND POST IT IN THE GROUP. (ОТВЕТЬ НА ВОПРОСЫ. ЗАПИШИ АУДИО/ВИДЕО РАЗГОВОРНОЙ ПРАКТИКИ И РАЗМЕСТИ В ГРУППЕ АНГЛИЙСКОГО)
+## 3. ANSWER THE QUESTIONS. RECORD A VIDEO/AUDION AND POST IT IN THE GROUP. (ОТВЕТЬ НА ВОПРОСЫ. ЗАПИШИ АУДИО/ВИДЕО РАЗГОВОРНОЙ ПРАКТИКИ И РАЗМЕСТИ В ГРУППЕ АНГЛИЙСКОГО)
 *ЗАДАНИЕ ДАЁТ ВОЗМОЖНОСТЬ ПОЛУЧИТЬ РАЗВЕРНУТЫЙ ФИДБЭК ПО ТВОЕЙ ДОМАШКЕ;)
 
 1 What do you think you will learn next week?
