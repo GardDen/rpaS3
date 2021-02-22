@@ -1,12 +1,12 @@
 GRAMMAR PRACTICE
 
 1 MATCH THE SENTENCES TO FORM LOGICAL PAIRS (СОВМЕСТИ ВЫСКАЗЫВАНИЯ ПО СМЫСЛУ)
-Steve is ambitious. - I'll send it back to the shop. 
-The sofa is too big. - I'll help him to get the position.
-I don't really like Jack. - I'll rent an office for us there. 
-Let's go to the party. - I won't invite him over for lunch tomorrow. 
-They're building a new skyscraper. -I'll give you mine.
-My laptop is broken. - I'll give you my little black dress to wear.
+Steve is ambitious. - I'll help him to get the position.
+The sofa is too big. - I'll send it back to the shop.   
+I don't really like Jack. - I won't invite him over for lunch tomorrow.   
+Let's go to the party. - I'll give you my little black dress to wear.
+They're building a new skyscraper. - I'll rent an office for us there. 
+My laptop is broken. -I'll give you mine.
 
 2 COMPLETE THE SENTENCES WITH CORRECT FORMS. USE will or won't for predictions. (ПОСТАВЬ ГЛАГОЛЫ В ПРАВИЛЬНУЮ ФОРМУ. ИСПОЛЬЗУЙ will либо won't (will not) для предсказаний). 
 1 We don't think Trump (to win) the next election.
