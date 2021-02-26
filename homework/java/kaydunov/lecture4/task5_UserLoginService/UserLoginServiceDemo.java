@@ -1,6 +1,6 @@
 package task5_UserLoginService;
 
-public class UserLoginServiceDemo {
+public class  UserLoginServiceDemo {
     public static void main(String[] args) {
         UserLoginService service = new UserLoginService();
         User userTwo = new User("user-Two", "333");

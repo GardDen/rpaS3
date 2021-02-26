@@ -3,7 +3,7 @@ package task5_UserLoginService;
 public class UserLoginService {
 
     boolean login(User user, String password) {
-        if (!user.isBlock() && user.getPassword().equals(password)) {
+        if (!user.isItBlocked() && user.getPassword().equals(password)) {
             user.resetAttemts();
             return true;
         }
