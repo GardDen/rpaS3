@@ -19,15 +19,14 @@ public class LightColorDetector {
     int wavelength;
 
     public String detect(int wavelength) {
+        if (wavelength < 380) return "Invisible Light";
         if (wavelength < 449) return "Фиолетовый";
         if (wavelength < 493) return "Синий";
         if (wavelength < 569) return "Зеленый";
         if (wavelength < 589) return "Желтый";
         if (wavelength < 619) return "Оранжевый";
         if (wavelength < 750) return "Красный";
-
-
-        return "";
+        return "Invisible Light";
     }
 
 
